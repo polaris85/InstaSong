@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__49-[NotificationViewController getNotificationList]_block_invoke:NotificationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[DataManager getInstance].currentUser objectId]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
